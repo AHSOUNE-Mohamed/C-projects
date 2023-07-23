@@ -4,6 +4,7 @@ int Squers[] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
 int N;
 char marks;
 int player = 1;
+int checkWin;
 int main()
 {
     if (player == 1)
